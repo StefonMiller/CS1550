@@ -1,0 +1,12 @@
+drwxr-xr-x 2 root root 0 .
+drwxr-xr-x 2 root root 0 ..
+-rw-rw-rw- 1 root root 0 file_0.txt
+-rw-rw-rw- 1 root root 0 file_1.txt
+-rw-rw-rw- 1 root root 0 file_2.txt
+-rw-rw-rw- 1 root root 0 file_3.txt
+-rw-rw-rw- 1 root root 0 file_4.txt
+-rw-rw-rw- 1 root root 0 file_5.txt
+-rw-rw-rw- 1 root root 0 file_6.txt
+-rw-rw-rw- 1 root root 0 file_7.txt
+-rw-rw-rw- 1 root root 0 file_8.txt
+-rw-rw-rw- 1 root root 0 file_9.txt

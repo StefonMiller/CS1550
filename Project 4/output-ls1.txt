@@ -1,0 +1,2 @@
+drwxr-xr-x 2 root root 0 .
+drwxr-xr-x 5 smm248 domain users 21:10
